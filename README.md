@@ -1,6 +1,5 @@
 <h1>APLIKASI LMS BERBASIS DJANGO DAN MENGGUNAKAN POSTGRESQL</h1>
-<h2>Aplikasi LMS Untuk Tujuan Pembelajaran Backend Yakni Matkul PSS</h2>
-<h2>Aplikasi ini dapat menggunakan Docker, sudah ada dockerfile dan docker-compose.yml di dalamnya</h2>
+<h2>Aplikasi LMS Untuk Tujuan Pembelajaran Backend Yakni Matkul PSS , aplikasi ini bisa menggunakan docker karena ada docker compose di dalam nya</h2>
 <br>
 <h2>Langkah-Langkah nya Menjalankannya di Docker Container</h2>
 <ul>
