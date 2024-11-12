@@ -1,8 +1,8 @@
-<h1>APLIKASI LMS SEDERHANA BERBASIS DJANGO DAN POSTGRESQL</h1>
-<h2>Aplikasi LMS Ini Hanya Memiliki Template Minimalis, Didesain Untuk Tujuan Pembelajaran Backend, Dengan Beberapa URL Yang Telah Ditetapkan di urls.py</h2>
-<h2>Aplikasi ini juga dapat dijalankan secara virtual menggunakan Docker, itulah mengapa terdapat dockerfile dan docker-compose.yml di dalamnya</h2>
+<h1>APLIKASI LMS BERBASIS DJANGO DAN MENGGUNAKAN POSTGRESQL</h1>
+<h2>Aplikasi LMS Untuk Tujuan Pembelajaran Backend Yakni Matkul PSS</h2>
+<h2>Aplikasi ini dapat menggunakan Docker, sudah ada dockerfile dan docker-compose.yml di dalamnya</h2>
 <br>
-<h2>Berikut Langkah-Langkah Menjalankannya di Docker Container</h2>
+<h2>Langkah-Langkah nya Menjalankannya di Docker Container</h2>
 <ul>
   <li>Pasang Docker Jika Belum Ada. Jika Sudah, Aktifkan Docker Machine</li>
   <li>Unduh file zip proyek ini, lalu ekstrak di komputer Anda</li>
